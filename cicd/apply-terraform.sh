@@ -4,7 +4,7 @@
 set -eu
 
 # go back to the previous directory
-cd ../aws-s3-bucket/
+cd ../aws-s3/
 
 # initialize terraform
 terraform init
